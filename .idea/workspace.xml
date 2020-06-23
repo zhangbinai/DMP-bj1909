@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5359fcea-5098-47c6-9b3c-1223888715b5" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/DMP-bj1909.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/app/LocationRpt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/app/LocationRptV2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/etl/Data2Json.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/etl/Data2Mysql.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/utils/RtbUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/utils/SchemaUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRpt$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/app/LocationRptV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Data2Json$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Data2Json.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Data2Mysql$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Data2Mysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Log2Parquet$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Log2Parquet$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Log2Parquet$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Log2Parquet$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/etl/Log2Parquet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/traits/LoggerTrait$class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/traits/LoggerTrait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/CommonUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/CommonUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/RtbUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/RtbUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/SchemaUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/SchemaUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/SparkUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/qphone/dmp/utils/SparkUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spark.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spark.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spark.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/etl/Log2Parquet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/etl/Log2Parquet.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/utils/CommonUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/utils/CommonUtils.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DMP-bj1909" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Trait" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\wget\w_get\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rocklee86" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="L:\工作资料\课程资料\2018千峰大数据带班资料\1000phone大数据课程\BigData-GP-1909\day26-dmp\dmp\DMP-bj1909\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.3\conf\respository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dfPpGYsKfmrZw6ktDmeFMF6E6T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/cn/qphone/dmp/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.qphone.dmp.traits" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.qphone.dmp.app" />
+      <recent name="cn.qphone.dmp.etl" />
+      <recent name="cn.qphone.dmp.traits" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\工作资料\课程资料\2018千峰大数据带班资料\1000phone大数据课程\BigData-GP-1909\day26-dmp\dmp\DMP-bj1909\src\main\scala\cn\qphone\dmp\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LocationRptV2">
+    <configuration name="Data2Json" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.qphone.dmp.etl.Data2Json" />
+      <module name="DMP-bj1909" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\1902 D:\\json_1909" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qphone.dmp.etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Data2Mysql" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.qphone.dmp.etl.Data2Mysql" />
+      <module name="DMP-bj1909" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\1902 D:\\json_1909" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qphone.dmp.etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationRpt" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.qphone.dmp.app.LocationRpt" />
+      <module name="DMP-bj1909" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\1902 D:\\location1908" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qphone.dmp.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationRptV2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.qphone.dmp.app.LocationRptV2" />
+      <module name="DMP-bj1909" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\1902 D:\\location1908" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qphone.dmp.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log2Parquet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.qphone.dmp.etl.Log2Parquet" />
+      <module name="DMP-bj1909" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\2016-10-01_06_p1_invalid.1475274123982.log D:\\1902" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qphone.dmp.etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Log2Parquet" />
+      <item itemvalue="Application.Data2Json" />
+      <item itemvalue="Application.Data2Mysql" />
+      <item itemvalue="Application.LocationRpt" />
+      <item itemvalue="Application.LocationRptV2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocationRptV2" />
+        <item itemvalue="Application.LocationRpt" />
+        <item itemvalue="Application.Data2Mysql" />
+        <item itemvalue="Application.Data2Json" />
+        <item itemvalue="Application.Log2Parquet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5359fcea-5098-47c6-9b3c-1223888715b5" name="Default Changelist" comment="" />
+      <created>1592813354102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592813354102</updated>
+      <workItem from="1592813355246" duration="17000" />
+      <workItem from="1592813416487" duration="2555000" />
+      <workItem from="1592876124946" duration="2345000" />
+      <workItem from="1592878498505" duration="234000" />
+      <workItem from="1592878754953" duration="4045000" />
+      <workItem from="1592893882123" duration="6456000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1592813674001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592813674001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1592815760761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592815760761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="123" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592904315053">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="391" y="123" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1592904315053" />
+    <state x="343" y="4" key="CommitChangelistDialog2" timestamp="1592905421756">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="343" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592905421756" />
+    <state x="236" y="196" key="FileChooserDialogImpl" timestamp="1592904496450">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="236" y="196" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592904496450" />
+    <state x="272" y="87" key="SettingsEditor" timestamp="1592904528753">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="87" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592904528753" />
+  </component>
+</project>
